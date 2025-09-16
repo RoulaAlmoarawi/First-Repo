@@ -1,0 +1,5 @@
+1. IaaS betyder att man hyr infrastruktur som servrar och nätverk. PaaS är en plattform där man kan utveckla och köra applikationer. SaaS är färdiga program som man använder direkt, till exempel Gmail eller Spotify.
+2. Git är ett versionshanteringssystem som sparar olika versioner av koden. GitHub är en webbtjänst där man kan lagra Git-projekt, samarbeta och dela kod med andra.
+3. Ett informationssystem är ett system som samlar in, lagrar, bearbetar och levererar information. Det kan bestå av både teknik, människor och processer.
+4. CIA-triaden står för Confidentiality, Integrity och Availability. Det innebär att information ska vara skyddad mot obehöriga, korrekt och alltid tillgänglig.
+5. Continuous Integration (CI) betyder att ny kod automatiskt testas och integreras med den befintliga koden. Det gör det lättare att upptäcka fel tidigt och samarbeta i teamet.
