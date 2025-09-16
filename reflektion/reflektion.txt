@@ -1,0 +1,8 @@
+Innan kursen visste jag ganska lite om mjukvaruutveckling. 
+Jag hade hört om programmering men inte förstått hur hela processen ser ut. 
+Nu har jag fått en bättre bild av hur utvecklare jobbar tillsammans och hur viktigt det är med struktur.
+För mig betyder DevOps att utvecklare och drift jobbar ihop, så att det blir enklare att både skriva kod och få ut den i produktion. 
+Jag skulle förklara för en kompis att det handlar om samarbete och att man använder verktyg för att automatisera mycket.
+När jag tänker på molnet känns det spännande eftersom man kan nå allt var man än är. Samtidigt är det lite svårt att förstå exakt hur säkerhet och servrar fungerar bakom kulisserna.
+Att vara systemutvecklare i ett team innebär att man måste kunna samarbeta, kommunicera och dela ansvar. Man gör inte allt själv utan jobbar tillsammans mot samma mål.
+Det mest intressanta under kursens tre veckor var att förstå hur GitHub fungerar. Det känns nyttigt att lära sig om brancher, pull requests och versionshantering eftersom det är något jag kommer behöva hela tiden.
